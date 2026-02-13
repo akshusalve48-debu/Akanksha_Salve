@@ -1,1 +1,1 @@
-# Akanksha_Salve
+This project analyzes sales data using Power BI to identify revenue trends, product performance, and customer purchasing patterns.The dashboard provides business insights to support data-driven decision-making.
